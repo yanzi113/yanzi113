@@ -4,7 +4,7 @@
 
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzi7310v0@gmail.com)
 
-你好👏！我叫燕子，我来自中国🇨🇳，目前为一名计算机系的本科毕业学生。我喜欢探索各种事物0v0。
+你好👏！我叫燕子，来自中国🇨🇳，目前为一名计算机系的本科毕业学生。我喜欢探索各种事物0v0。
 
 ## ⚡ 技术
 
