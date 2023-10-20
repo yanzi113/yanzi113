@@ -13,7 +13,7 @@
 - 掌握基本的数据结构、算法、计算机网络知识**
 - 使用Typescript、Cocos Creator进行游戏开发**
 
-## hello world！😈
+## 😈 hello world！
 
 - 💬 欢迎向我询问任何事喵～.
 - 📫 这是我的博客（持续开发中）: [YanZi Blog](https://yanzi731.life/)
