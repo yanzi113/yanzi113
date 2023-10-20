@@ -15,7 +15,7 @@
 
 ##  😈 hello world！
 
-- 💬 欢迎向我询问任何事喵～.
+- 💬 欢迎向我询问任何事喵～
 - 📫 这是我的博客（持续开发中）: [YanZi Blog](https://yanzi731.life/)
 - 🎯 这是我做过的项目: [基于vue3的后台管理系统](https://github.com/yanzi113/Vue_3.2/tree/master)
 
