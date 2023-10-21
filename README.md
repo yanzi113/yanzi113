@@ -27,3 +27,5 @@
 啊咧？我的主页已经被访问 ![:yanzi113](https://count.getloli.com/get/@:yanzi113?theme=rule34) 次啦, 非常感谢您的访问喵!🎉🎉
 
 
+[
+](https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg)https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg
