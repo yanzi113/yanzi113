@@ -19,10 +19,6 @@
 - 📫 这是我的博客（持续开发中）: [YanZi Blog](https://yanzi731.life/)
 - 🎯 这是我做过的项目: [基于vue3的后台管理系统](https://github.com/yanzi113/Vue_3.2/tree/master)
 
-## 💥 对我们彼此说的话：
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=69EFF7&center=true&vCenter=true&random=false&width=435&lines=%E5%A4%B1%E8%B4%A5%E6%80%BB%E6%98%AF%E8%B4%AF%E7%A9%BF%E4%BA%BA%E7%94%9F%E5%A7%8B%E7%BB%88%EF%BC%8C%E6%89%80%E4%BB%A5%E8%AF%B7%E4%B8%8D%E8%A6%81%E6%B3%84%E6%B0%94%F0%9F%92%9E" alt="Typing SVG" /></a>
-
      
 啊咧？我的主页已经被访问 ![:yanzi113](https://count.getloli.com/get/@:yanzi113?theme=rule34) 次啦, 非常感谢您的访问喵!🎉🎉
 
