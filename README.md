@@ -8,15 +8,12 @@
 
 ## ⚡ 技术
 
-- 使用HTML、Javascript、CSS、Vue进行前端开发**
-- 使用python网络爬虫爬取数据**
-- 掌握基本的数据结构、算法、计算机网络知识**
-- 使用Typescript、Cocos Creator进行游戏开发**
+- html,javascript,typescript,css,vue2,vue3,tailwind css,python,Cocos Creator,数据结构，计算机网络
 
 ##  😈 hello world！
 
 - 💬 欢迎向我询问任何事喵～
-- 📫学习react中
+- 📫学习react,uniapp中
 
      
 啊咧？我的主页已经被访问 ![:yanzi113](https://count.getloli.com/get/@:yanzi113?theme=rule34) 次啦, 非常感谢您的访问喵!🎉🎉
