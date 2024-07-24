@@ -16,7 +16,7 @@ Hello! 👏 My name is Yanzi, and I'm from China 🇨🇳. Currently, I am an un
 - 📫Learning react,uniapp
 
      
-Ah, my homepage has been visited ![:yanzi113](https://count.getloli.com/get/@:yanzi113?theme=rule34) times already! Thank you very much for visiting, meow! 🎉🎉
+Ah, my homepage has been visited ![:yanzi113](https://count.getloli.com/get/@:yanzi113?theme=rule34) times already! Thank you very much for visiting🎉🎉
 
 ![](https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg)
 
